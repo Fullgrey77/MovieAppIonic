@@ -1,7 +1,8 @@
 {
   "name": "MovieAppIonic",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
